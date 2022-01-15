@@ -1,0 +1,9 @@
+name: LSRVDiscordNews
+version: 1.0
+main: ru.lymonmine.lsrvdiscordnews.main
+author: LymonMine
+commands:
+  latnews:
+    description: _
+  fakenews:
+    description:  _
